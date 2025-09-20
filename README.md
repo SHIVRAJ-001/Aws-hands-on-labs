@@ -28,7 +28,10 @@ Deploy a secure web server on an EC2 instance with IAM role, EBS volume, and S3 
 ![Architecture](Task-1-Secure-Web-Server/architecture.png)  
 
 **Output:**  
-![Output](Task-1-Secure-Web-Server/screenshots/website.png)  
+## 🌐 Live Demo
+
+[Click here to view the webpage](http://13.57.41.161)
+
 
 ---
 
